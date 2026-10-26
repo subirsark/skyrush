@@ -1,0 +1,7 @@
+{
+  "name": "SkyRush - Supersonic Crash Game Simulator",
+  "description": "Interactive Aviator-inspired crash game simulation with virtual coins, real-time multiplier curve, virtual wallet, leaderboards, and admin controls. Demo only with zero real money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
